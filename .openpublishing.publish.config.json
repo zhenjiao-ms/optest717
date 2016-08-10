@@ -30,7 +30,7 @@
     },
     {
       "path_to_root": "_plugins",
-      "url": "https://github.com/zhenjiao-ms/opsrules",
+      "url": "https://github.com/Microsoft/csi-custom-validation-rules",
       "branch": "master",
       "branch_mapping": {}
     }
