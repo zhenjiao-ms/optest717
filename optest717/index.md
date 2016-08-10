@@ -7,7 +7,7 @@ description: Technical documentation for Microsoft Enterprise Mobility
 keywords: microsoft docs, enterprise mobility documentation, Learn enterprise mobility, enterprise mobility guide, enterprise mobility technical documentation  
 author: msswadhwa  
 manager: swadhwa  
-ms.date: 04/28/2016  
+ms.date: 04/28/2017  
 ms.topic: hubpage   
 ms.suite: ems  
 ms.assetid: 961350ed-a3f1-44f1-b239-b46345b8f620  
