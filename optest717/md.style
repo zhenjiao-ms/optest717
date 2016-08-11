@@ -1,0 +1,11 @@
+{
+   "tagRules": [
+      {
+         "tagNames": [ "H1", "H2" ],
+         "behavior": "Warning",
+         "messageFormatter": "Please do not use <H1> and <H2>, use '#' and '##' instead.",
+         "customValidatorContractName": null,
+         "openingTagOnly": false
+      }
+   ]
+}
